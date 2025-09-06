@@ -49,7 +49,7 @@ Follow these steps to **run the project locally**:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/Debadritamandal/Nextstep.git
+git clone [https://github.com/Debadritamandal/Nextstep.git](https://github.com/Debadritamandal/NextStep.git)
 cd Student Management Dashboard
 
 ### **2. insall dependencies**
